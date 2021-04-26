@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import React, { useEffect, useState } from "react";
 import { Dimmer, Loader } from 'semantic-ui-react';
 import Weather from './components/weather';
